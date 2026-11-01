@@ -1,0 +1,193 @@
+{
+  "baseline": "TSvelo-Manifold-v1.0.0-frozen.20260916",
+  "release": "ManifoldVelo 1.0.0",
+  "model_changes": "Import relocation and extraction of portable helpers; model equations, losses and optimizers retained.",
+  "records": [
+    {
+      "source": "TSvelo_optimization_20260916/cycle_base/config.py",
+      "source_sha256": "28cf00e06d0d91b0a30709c3f9d17c41e6069075a78b9e1f72954741196f584d",
+      "target": "src/manifoldvelo/_core/cycle_base/config.py",
+      "released_sha256": "28cf00e06d0d91b0a30709c3f9d17c41e6069075a78b9e1f72954741196f584d",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/cycle_base/graph.py",
+      "source_sha256": "485087640cfff5c3581825d68ae105cc3a53ad9f09424b04a63962d42fa7643e",
+      "target": "src/manifoldvelo/_core/cycle_base/graph.py",
+      "released_sha256": "485087640cfff5c3581825d68ae105cc3a53ad9f09424b04a63962d42fa7643e",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/cycle_base/losses.py",
+      "source_sha256": "ecdc20dfa803ac8099112464c7eb7c15c4547d475100781ba42ae2549d31daac",
+      "target": "src/manifoldvelo/_core/cycle_base/losses.py",
+      "released_sha256": "ecdc20dfa803ac8099112464c7eb7c15c4547d475100781ba42ae2549d31daac",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/cycle_base/models.py",
+      "source_sha256": "85dc28ab6acbe0292a050198068baa78a64cda7bf6a276180b346bf60d1aef9a",
+      "target": "src/manifoldvelo/_core/cycle_base/models.py",
+      "released_sha256": "85dc28ab6acbe0292a050198068baa78a64cda7bf6a276180b346bf60d1aef9a",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/cycle_base/trainer.py",
+      "source_sha256": "688528a5b3de5a5ebbb188a07b251216dd7aa3864de76343fe4746e6c1e1caed",
+      "target": "src/manifoldvelo/_core/cycle_base/trainer.py",
+      "released_sha256": "688528a5b3de5a5ebbb188a07b251216dd7aa3864de76343fe4746e6c1e1caed",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/cycle_base/evaluation.py",
+      "source_sha256": "f14ecadaea642dbcb0449ee0eb36184089c3d594555ee089add3612de6cdeeca",
+      "target": "src/manifoldvelo/_core/cycle_base/evaluation.py",
+      "released_sha256": "f14ecadaea642dbcb0449ee0eb36184089c3d594555ee089add3612de6cdeeca",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/cycle_base/synthetic.py",
+      "source_sha256": "96927a8ff5980b1a114d9be3e4a56da7cbe387afff14a8b82cb96c1338df4e83",
+      "target": "src/manifoldvelo/_core/cycle_base/synthetic.py",
+      "released_sha256": "96927a8ff5980b1a114d9be3e4a56da7cbe387afff14a8b82cb96c1338df4e83",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/cycle_base/__init__.py",
+      "source_sha256": "ba7e5a78a5a20ea502cf0d0bba0820c36e95bff6147d680d1757baf44c7c90d5",
+      "target": "src/manifoldvelo/_core/cycle_base/__init__.py",
+      "released_sha256": "ba7e5a78a5a20ea502cf0d0bba0820c36e95bff6147d680d1757baf44c7c90d5",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/branch_base/config.py",
+      "source_sha256": "d5fc84c83d4a0061969202485a64aa5d4018883b4b8a34e046ff175df8c68748",
+      "target": "src/manifoldvelo/_core/branch_base/config.py",
+      "released_sha256": "d5fc84c83d4a0061969202485a64aa5d4018883b4b8a34e046ff175df8c68748",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/branch_base/em.py",
+      "source_sha256": "0e292178c5cf7fd362b1cee59169bf746c4e0f794ce449f8d060f10d4959fe6d",
+      "target": "src/manifoldvelo/_core/branch_base/em.py",
+      "released_sha256": "aad1e9a6b6cc72367a53a615b205e457c1475ac3cb8369e15ddda568a9db7040",
+      "changes": [
+        "from TSvelo_manifold."
+      ]
+    },
+    {
+      "source": "TSvelo_optimization_20260916/branch_base/models.py",
+      "source_sha256": "e4361b5c65d02a5c7a677a3d1044b3af6cfb27b14a3748a166c558130aba13ec",
+      "target": "src/manifoldvelo/_core/branch_base/models.py",
+      "released_sha256": "85aecc033a59a4e58e86608dd36d1816ae78e3d1cdd487287c5926f23c93a1b6",
+      "changes": [
+        "from TSvelo_manifold."
+      ]
+    },
+    {
+      "source": "TSvelo_optimization_20260916/branch_base/topology.py",
+      "source_sha256": "115d7f5bc2351e56e3e2a6730ae87691e67e3167dfefa04cf850314d32a82875",
+      "target": "src/manifoldvelo/_core/branch_base/topology.py",
+      "released_sha256": "115d7f5bc2351e56e3e2a6730ae87691e67e3167dfefa04cf850314d32a82875",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/branch_base/trainer.py",
+      "source_sha256": "abaa8f771be715394df150b5c31b81645ba1122e011409a3a1e0c7580b5c78f8",
+      "target": "src/manifoldvelo/_core/branch_base/trainer.py",
+      "released_sha256": "e22ce03966330ed5650abe450e62cd0fcb9edce3ad6dc7b5a948de8dd8643f0e",
+      "changes": [
+        "from TSvelo_manifold."
+      ]
+    },
+    {
+      "source": "TSvelo_optimization_20260916/branch.py",
+      "source_sha256": "f0bdf6cbba44e193763872585bd9b8089b88f09166e28402224ce578b251e920",
+      "target": "src/manifoldvelo/_core/branch.py",
+      "released_sha256": "f0bdf6cbba44e193763872585bd9b8089b88f09166e28402224ce578b251e920",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/rooting.py",
+      "source_sha256": "e9f96fc4a858fc8ff5ae0ac2b880fc3380866189c08a3121f9af788ff3250e7a",
+      "target": "src/manifoldvelo/_core/rooting.py",
+      "released_sha256": "e9f96fc4a858fc8ff5ae0ac2b880fc3380866189c08a3121f9af788ff3250e7a",
+      "changes": []
+    },
+    {
+      "source": "TSvelo_optimization_20260916/cycle.py",
+      "source_sha256": "73b1c5744d5ba4ee1a7760f0ded39988b5f350aebd71729ec9d338a6b035f0bb",
+      "target": "src/manifoldvelo/_core/cycle.py",
+      "released_sha256": "1e220bb5db26aa15d11d426e66d6b6395b89f7fef40488a65349f0ac4375c4f7",
+      "changes": [
+        "from TSvelo_dentate_old_manifold_root_20260916.train import save_model"
+      ]
+    },
+    {
+      "source": "TSvelo_optimization_20260916/topo.py",
+      "source_sha256": "d3722aba809951902648e4e41195ce6442032f51da38217defb081e5b281a741",
+      "target": "src/manifoldvelo/_core/topo.py",
+      "released_sha256": "4cd38511ca80f364a4df66d5a018fd52ca64096ed473c6188f6d98d9eff558c0",
+      "changes": [
+        "from TSvelo_dentate_old_manifold_root_20260916.train import save_model",
+        "from TSvelo_manifold_simbench_v1.fit_topology import MonotoneCircle",
+        "from TSvelo_manifold_simbench_v1.common import Stability",
+        "old_fit_source_sha256=sha(__import__('TSvelo_manifold_simbench_v1.fit_topology',fromlist=['x']).__file__)"
+      ]
+    },
+    {
+      "source": "TSvelo_optimization_20260916/common.py",
+      "source_sha256": "71bdc7e74c50df7fd8c57ced38001b1ec0e143c9e9023ed2a3cc62686adfdb2d",
+      "target": "src/manifoldvelo/_core/common.py",
+      "extracted_definitions": [
+        "load",
+        "sha",
+        "write"
+      ],
+      "extracted_sha256": "be1bd5d935174e9188ea4933b78a79e4530b19d202fb59fc25880b3fe58f23c8"
+    },
+    {
+      "source": "TSvelo_dentate_old_manifold_root_20260916/train.py",
+      "source_sha256": "f4e792d0e32fd939bc855312784faead736a9bbde5b99f8a631ff39bbd789260",
+      "target": "src/manifoldvelo/_core/serialization.py",
+      "extracted_definitions": [
+        "save_model"
+      ],
+      "extracted_sha256": "277eb272518f074721a32b0d0534bca3818be68b8dc183e1c1d9bab39c02461a"
+    },
+    {
+      "source": "TSvelo_manifold_simbench_v1/fit_topology.py",
+      "source_sha256": "2c3a5db1b3181cc3ea7f4ffcc89e5d5a25184bf3d204503c9138f18874056f52",
+      "target": "src/manifoldvelo/_core/temporal.py",
+      "extracted_definitions": [
+        "MonotoneCircle"
+      ],
+      "extracted_sha256": "db19e6e20b776f92ddb992bb8d2ed18def49e86f15ac3128c865c950eb24646a"
+    },
+    {
+      "source": "TSvelo_manifold_simbench_v1/common.py",
+      "source_sha256": "eaa9a93bed93d722621508658e590e1daf05b5ec50ecee705468a410d1aee069",
+      "target": "src/manifoldvelo/_core/temporal.py",
+      "extracted_definitions": [
+        "Stability",
+        "wrap"
+      ],
+      "extracted_sha256": "781074d5fa923be59989e0691e6c4e656da8780080e434c1884dc908faedb4d1"
+    },
+    {
+      "source": "TSvelo_simulation_autoroot_20260916/selector_snapshot/select_roots.py",
+      "source_sha256": "019d27f1960ac1db5397c625295a4640504779303061718b88dddb5980bf0fca",
+      "target": "src/manifoldvelo/_core/source_selection.py",
+      "extracted_definitions": [
+        "geometry",
+        "group_means",
+        "kinetic_residual",
+        "normalize_columns",
+        "rank",
+        "source_score",
+        "stationary"
+      ],
+      "extracted_sha256": "abdb5c5651a435f586420a92ec4f4f36ec29c14f80e11f140a328e110e75cc4a"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this software and the accompanying ManifoldVelo manuscript when using it."
+type: software
+title: "ManifoldVelo: coupling cellular trajectories with RNA kinetics on continuous expression manifolds"
+version: 1.0.0
+date-released: 2026-11-01
+repository-code: "https://github.com/ZHOUZHEN2002/ManifoldVelo"
+authors:
+  - family-names: Zhou
+    given-names: Zhen
+  - family-names: Li
+    given-names: Jiachen
+  - family-names: Liu
+    given-names: Yuan
+  - family-names: Pan
+    given-names: Xiaoyong
+  - family-names: Shen
+    given-names: Hong-Bin

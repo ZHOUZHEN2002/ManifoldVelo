@@ -1,0 +1,1 @@
+"""Frozen manuscript model implementation."""

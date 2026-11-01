@@ -1,0 +1,9 @@
+{
+  "warmup_steps": 30,
+  "joint_steps": 60,
+  "hidden_dim": 32,
+  "decoder_hidden": 32,
+  "neighbors": 10,
+  "graph_pcs": 10,
+  "collocation_points": 16
+}

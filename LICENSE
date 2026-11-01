@@ -1,0 +1,49 @@
+ManifoldVelo Academic Research Only License
+Version 1.0, 1 November 2026
+
+Copyright (c) 2026 Zhen Zhou and the ManifoldVelo contributors.
+All rights reserved except as expressly granted below.
+
+1. Permission
+Permission is granted, without charge, to use, copy, study, modify and
+redistribute this software and its documentation (the "Software") solely for
+non-commercial academic research, teaching and academic evaluation conducted
+by, or on behalf of, universities, educational institutions and non-profit
+research institutions. This permission applies to the original ManifoldVelo
+contributions for which the copyright holders have authority to grant rights.
+
+2. Conditions
+Copies and permitted distributions must retain this license, the copyright
+notices and the third-party notices. Modified versions must identify their
+changes and must not imply endorsement by the original authors. Redistribution
+of the original ManifoldVelo contributions or modifications to them must remain
+subject to these academic-research-only terms. Publications using the Software
+must acknowledge ManifoldVelo and cite the relevant method and software release.
+
+3. Commercial use
+Commercial use is not permitted under this license. This includes use in or for
+a commercial product or service, paid consulting, commercial research and
+development, or licensing the Software for commercial exploitation. A separate
+written license from the relevant copyright holders is required for such use.
+Licensing inquiries may be submitted through the repository's issue tracker.
+
+4. Third-party components
+Third-party materials remain subject to their respective licenses, including
+the TSvelo MIT notice retained in LICENSES/TSvelo-MIT.txt. Nothing in this
+license limits rights independently granted under a third-party license.
+Dependencies installed separately are not relicensed by this document.
+
+5. Termination
+The permissions granted by this license terminate upon a material breach of
+its terms. This does not affect rights granted under separate licenses.
+
+6. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE
+AUTHORS AND COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+This is a source-available academic license, not an unrestricted open-source
+license. The license identifier used by this release is
+LicenseRef-ManifoldVelo-Academic-Only.

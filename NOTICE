@@ -1,0 +1,13 @@
+ManifoldVelo builds on the RNA kinetic formulation and software development
+of TSvelo (Jiachen Li and collaborators):
+https://github.com/lijc0804/TSvelo
+
+The original TSvelo MIT license and copyright notice are reproduced verbatim
+in LICENSES/TSvelo-MIT.txt. Original TSvelo components retain that license;
+the Academic Research Only license applies to the ManifoldVelo contributions.
+
+The model implementation was assembled from the frozen ManifoldVelo paper
+snapshot. Provenance and changes to import paths are recorded in
+provenance/SOURCE_MANIFEST.json. This distribution does not vendor PyTorch,
+Scanpy, scVelo, VeloCycle, or other comparison methods. Those projects retain
+their respective licenses and citations.
