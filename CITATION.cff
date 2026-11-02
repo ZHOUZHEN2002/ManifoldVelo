@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Please cite this software and the accompanying ManifoldVelo manuscript when using it."
 type: software
-title: "ManifoldVelo: coupling cellular trajectories with RNA kinetics on continuous expression manifolds"
+title: "Coupling cellular trajectories and RNA kinetics on continuous expression manifolds with ManifoldVelo"
 version: 1.0.0
 date-released: 2026-11-01
 repository-code: "https://github.com/ZHOUZHEN2002/ManifoldVelo"

@@ -1,6 +1,6 @@
 # ManifoldVelo
 
-**Coupling cellular trajectories with RNA kinetics on continuous expression manifolds.**
+**Coupling cellular trajectories and RNA kinetics on continuous expression manifolds with ManifoldVelo**
 
 ManifoldVelo jointly estimates pseudotime, unspliced/spliced expression trajectories
 and RNA velocity. It supports periodic populations, branching lineages and
@@ -116,8 +116,8 @@ The tested environment and release checks are recorded in
 
 ## Citation and attribution
 
-Please cite the accompanying manuscript, **ManifoldVelo: coupling cellular
-trajectories with RNA kinetics on continuous expression manifolds**, and this
+Please cite the accompanying manuscript, **Coupling cellular trajectories and RNA
+kinetics on continuous expression manifolds with ManifoldVelo**, and this
 software release. Author information is in [CITATION.cff](CITATION.cff); no journal
 publication status or DOI is asserted here.
 

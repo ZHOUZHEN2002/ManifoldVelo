@@ -1,7 +1,7 @@
 # ManifoldVelo
 
-本仓库提供论文 **ManifoldVelo: coupling cellular trajectories with RNA kinetics
-on continuous expression manifolds** 对应的模型代码。
+本仓库提供论文 **Coupling cellular trajectories and RNA kinetics on continuous
+expression manifolds with ManifoldVelo** 对应的模型代码。
 
 模型联合拟合细胞时序、连续 U/S 表达轨迹和 RNA 速度，支持环形、多分叉与单主干
 轨迹。训练使用配对 U/S；拟合后可用 S-only 新细胞进行时序与速度预测。
